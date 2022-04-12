@@ -1,0 +1,3638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_171" class="java.beans.XMLDecoder">
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The use, analysis and design of information systems and technologies to organize, coordinate, and inform human enterprises.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information, People and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Model.GenEd" id="genEd0">
+      <void property="code">
+       <string>GS</string>
+      </void>
+      <void property="description">
+       <string>Social and Behavioral Sciences</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>110</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The use, analysis and design of information systems and technologies to organize, coordinate, and inform human enterprises.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information, People and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd0"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>H</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>110</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The use, analysis and design of information systems and technologies to organize, coordinate, and inform human enterprises.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information, People and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd0"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>S</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>110</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to academic requirements, career planning &amp; information literacy for students majoring in College of IST.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>Seminar in IST</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>111</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to academic requirements, career planning, and information literacy for students majoring in the College of Information Sciences and Technology.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>Seminar in Information Sciences and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>S</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>111</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>A survey course that explores emerging technologies used to produce and consume popular cultural artifacts.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Emerging Technologies in Popular Culture</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Model.GenEd">
+      <void property="code">
+       <string>GA</string>
+      </void>
+      <void property="description">
+       <string>Arts</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>130</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>A first course in concepts and skills for application development.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Application Development</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>140</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: college algebra</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>197</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>198</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Model.GenEd" id="genEd1">
+      <void property="code">
+       <string>IL</string>
+      </void>
+      <void property="description">
+       <string>International Cultures</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>199</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to concept of databases including the storage, manipulation, evaluation, and display of data and related issues.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Organization of Data</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>210</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>In depth coverage of: database administration, advanced Structures Query Language inquires, normalization, referential integrity; troubleshooting, tweaking; implementation dependent transactions, embedded SQL, Open Database Connectivity.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Advanced Topics in Relational Database Management Systems</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>211</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to digital network topologies; transmission media, signal modulation, digital packet switching and routing, systems integration, communications management, and security.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Networking and Telecommunications</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>220</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Preparation for PC hardware support: Students learn data recovery and how to build, configure, upgrade, troubleshoot, diagnose, and repair PC&apos;s.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>PC Hardware Basics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>225</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Concepts for peer-to-peer and server-based network:International Organization for Standardization-Open Systems Interconnection (ISO-OSI) reference model, industry standards, troubleshooting, performance monitoring, and optimization.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Networking Essentials</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>226</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Administering peer-to-peer and client/server networks: Planning, installation, server configuration, resource management, remote access, performance monitoring, and optimization.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Network Administration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>227</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 226</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>TCP/IP planning, installation, configuration: IP addressing, subnetting, routing, Dynamic Host Configuration Protocol (DHCP), Windows Internet Naming Service (WINS), address/name resolution, Domain Name System (DNS); database, web, mail server management.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Advanced Network Administration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>228</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 226</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to formal languages, mathematical logic, and discrete mathematics, with applications to information sciences and technology.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Language, Logic, and Discrete Mathematics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>230</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: MATH 110 or MATH 140</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to the rapidly changing world of digital cultures, and the communicative, and social impacts on individuals and institutions.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Digital Cultures</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd0"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>234</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110 or IST 110S</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Integrates information technology and gender studies. Overview issues and socio-cultural shaping of gender in the IT field.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Gender and the Global Information Technology Sector</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="Model.GenEd" id="genEd2">
+      <void property="code">
+       <string>US</string>
+      </void>
+      <void property="description">
+       <string>United States Cultures</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>235</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to foundational concepts for starting and operating digital business, including business models, funding, strategic, operational, structural, and cultural components.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Digital Entrepreneurship</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>237</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to the specification and application of languages and language paradigms that interact with computers.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Computer Languages</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>240</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: CMPSC 101 or IST 140 Concurrent: IST 230</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Intermediate application development including algorithms, data structures, and object-oriented concepts.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Intermediate &amp; Object-Oriented Application Development</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>242</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 140 or CMPSC 121 or IST 240</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to how the World Wide Web utilizes emerging technologies. Students acquire conceptual understanding of constructing Web sites.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>New Media and the Web</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>250</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110 or concurrent enrollment</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>An introduction to fundamental web administration concepts: Internet, graphic design, Hypertext Markup Language (HTML), security, legal/ethical implications, Internet business.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Fundamentals of Web Administration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>255</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 250</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>An introduction to fundamental Web programming concepts: Advanced Hypertext Markup Language (HTML), Dynamic Hypertext Markup Language (DHTML), extensible Markup Language (XML), Data Warehouses, JavaScript, common Gateway Interface (CGI), and Java.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Programming for the Web</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>256</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 250</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Web site server installation, access, management, security, performance monitoring and optimization, network services, and troubleshooting.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Advanced Web Administration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>257</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 255</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to systems analysis and design, stressing the process of requirements acquisition, specification, design, and implementation.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Systems Analysis and Design</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>W</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>260</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110 IST 210 IST 220 and ENGL 015</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introductory design and development studio course for IST and SRA students.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Application Development Design Studio I</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>261</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 242</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised student activities on research projects identified on an individual or small-group basis.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Research Project</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>294</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised experience in which student teams work on information system design projects gathered from industry or units within the University.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Distributed Team Project</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>A</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>295</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised work experience where the student is employed in an information sciences and technology position in industry, government, or academia.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>IST Internship</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>B</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>295</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Creative projects, including research and design, that are supervised on an individual basis and that fall outside the scope of formal courses.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Independent Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>296</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>297</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to best practices in and supervision of instructional support activities such as coaching, team facilitation, grading, and learning assessment.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>Supervised Experience in Instructional Support</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>B</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>297</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>298</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>299</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Overview of organizational structures and functions. Includes information processing and analytic perspectives of organizations.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information and Organizations</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>301</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Exploration and application of the basic concepts, methodologies, and tools of project management in the field of information sciences and technology.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>IT Project Management</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>302</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Analysis of audience data for traditional and new media to create metrics for advertising, content marketing and audience analysis.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Digital Media Metrics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>310</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: fourth semester standing</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to object-oriented applications including applications in an Object Oriented Design (OOD) language or OOD languages.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Object-Oriented Design and Software Applications</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>311</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 242 or CMPSC 221</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Interdisciplinary survey of topics related to the use and usability of information systems.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Organization and Design of Information Systems: User and System Principles</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>331</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 230</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to the tools available to IT entrepreneurs considering starting-up or looking to develop new applications.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Technologies for Digital Entrepreneurs</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>337</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>balization, human diversity and their impacts on IT products, work, workforce, and the knowledge economy and social inclusion in general.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Human Diversity in the Global Information Economy (3)</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd2"/>
+    </void>
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>341</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Second of two design and development studio courses for IST and SRA students.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Application Development Design Studio II</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>361</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 311 or program approval</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Interdisciplinary course to introduce students to the issues, concepts and skills involved in successfully transitioning into professional life.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Professional Development</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>390</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>397</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>398</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>399</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to emerging issues, technology forecasting and analysis; overview of emerging issues and leading technologies in info sciences and how they impact information systems, users, the IT labor force and society.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Emerging Issues and Technologies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>402</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to distributed-object computing and its use in client/server and real-world computing applications.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Distributed-Object Computing</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>411</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 311</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to the engineering of complex software systems including software system specification, design and implementation, integration and test, and evolution.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>The Engineering of Complex Software Systems</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>412</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 311</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course addresses activities in the system development process that ensure usability. It considers the emerging concept of usability, requirements gathering and analysis, activity design, information design, interaction design, documentation design, user testing and usability evaluation.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Usability Engineering</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>413</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 331</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introductory course on integration of information technology into different venues, including the planning, development, and implementation of the integration.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Fundamentals of Systems and Enterprise Integration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>420</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 240 IST 301 IST 302</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Advanced course on the integration of information technology into systems applications.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Advanced Enterprise Integration: Technologies and Applications</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>421</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 420</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Theoretical foundations and practice of enterprise architecture.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Enterprise Architecture Foundations</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>422</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 301</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provide in-depth study of the concepts, issues, and technologies associated with the complex world of enterprise information and storage architecture.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Enterprise Information Management and Storage Architecture</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>423</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 301</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Theoretical foundations and practice of enterprise modeling.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Architectural Modeling of Organizations</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>424</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 301</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Via problem-based learning, teams define new business ventures to meet current market needs, develop business plans, and present to investors.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>New Venture Creation</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>425</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: ECON 102 or ECON 104 or ECON 014 ; CAS 100</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Working with Penn State inventions selected by the Intellectual Property Office, student teams define an optimum commercialization path each technology.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Invention Commercialization</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>426</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: ECON 102 or ECON 104 or ECON 014 ; CAS 100</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Survey of social environment of information technology themes: Community, sovereignty, privacy, ethics, economics, and knowledge management.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>The Information Environment</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>431</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 220</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Legal environment of information technology, constitutional/political issues, intellectual property, management, e-commerce, privacy, access, computer contracting, cyberspace regulation.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Legal and Regulatory Environment of Information Science and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>432</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 301 or SRA 231 or equivalent</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course introduces students to design thinking, user-driven innovation and user experience, and business model implementation issues for IT-driven innovation.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Digital Design &amp; Innovation</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>437</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 237</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Problem-based approach to technology integration by focusing on real-life problems faced by an organization.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information Sciences and Technology Integration and Problem Solving</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>W</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>440</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: ENGL 202C or ENGL 202D seventh-semester standing (this course is intended for seniors) and the five common course requirements plus at least three of the required courses in an option</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introductory course for seniors and graduate students covering the practices, issues, and theoretical foundations of organizing and analyzing information and information content for the purpose of providing access to textual and nontextual information resources. Introduces students to the principles of information storage and retrieval systems and databases.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information Retrieval and Organization</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>441</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 240</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>International concepts to improve strategies for the design, dissemination, and use of information technology.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information Technology in an International Context</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>442</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Explores and applies the basic concepts, methodologies, tools, and techniques of consulting and professional service organizations in information sciences and technology.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>IT Professional Services Theory and Practice</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>443</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 220 . Prerequisite or concurrent:IST 302 or IST 412</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Explores advanced IT professional services topics, and the unique application of consulting methods in various industry sectors.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Advanced IT Professional Services</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>444</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 443</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course covers trends in globalization and their influence on U.S. policy making as well as the role of the U.S. in international issues.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Globalization Trends and World Issues</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>H</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>445</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: 6 credits of honors course work</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>An interdisciplinary course that introduces students to process and techniques involved in developing a video or computer game.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>An Introduction to Building Computer/Video Games</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>446</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 311 IST 331 or approval of program</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course will explore the digital advertising &quot;ecosystem,&quot; identify key players and trends, and review programmatic media buying.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Digital Advertising</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>B</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>450</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: COMM 310 or IST 310</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Fundamental issues and concepts of network security, network security technologies and protocols, and emerging technologies in network security.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Network Security</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>451</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 220 SRA 221</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Exploration of legal, regulatory, public policy, and ethical issues related to security and privacy for information technology professionals in public institutions, private enterprise, and IT services.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Legal and Regulatory Environment of Privacy and Security</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>452</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 432</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Legal, regulatory and public policy environment of computer and network forensics that constrain investigatory and monitoring activities in computer and network environments.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Legal, Regulatory, Policy Environment of Cyber Forensics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>453</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110 and 6th-semester standing or higher</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Fundamental issues and concepts of computer forensics; aspects of computer and cyber crime; methods to uncover, protect, exploit, and document digital evidence; tools, techniques, and procedure to perform computer and cyber crime investigation.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Computer and Cyber Forensics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>454</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 220 SRA 221</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Contemporary Security Issues; security management processes, architecture and models; risk analysis and management; security planning, analysis and safeguards; security policies development and administration; contingency planning, incidence handling and response; and security standards and certification processes.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Information Security Management</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>456</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 220 SRA 221</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduces advanced topics in database management systems that are fundamental to effective administration of enterprise information systems.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Database Management and Administration</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>461</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 240</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course introduces advanced topics in database modeling and applicaitons.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Database Modeling and Applications</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>462</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 210 IST 240</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Seminar course focused on approaches to studying information and communication technologies and writing theses and other research reports.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Research Methods for the Information Sciences and Technology</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>H</string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>489</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110 honors standing or permission of program</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised student activities on research projects identified on an individual or small-group basis.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Research Project</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>494</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised off-campus, nongroup instruction including field experiences, practica, or internships. Written and oral critique of activity required.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Internship</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>495</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: prior approval of proposed assignment by instructor</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Creative projects, including research and design, that are supervised on an individual basis and that fall outside the scope of formal courses.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Independent Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>496</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>497</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>IST</string>
+    </void>
+    <void property="number">
+     <string>498</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides introduction to the field of Security and Risk Analysis and assessments of key skills.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>First-Year Seminar in Security and Risk Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>S</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>001</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>SRA 001S gives first-year students a concrete overview of the field of Security and Risk Analysis (SRA), including discussion of the knowledge and competencies required for careers in this field, familiarity with the variety of career paths and the specific requirements of each, and an understanding of the skills, abilities and knowledge that is common across career paths within this field. As part of this course, students will participate in a Developmental Assessment Center, which will assess their current skill levels in the areas of Oral and Written Communication, Leadership, Conflict Resolution, Decision Making and Problem Solving, as well as other core areas to be identified. Working with the assessment team, the will create specific, individualized plans to develop skills in areas where they are currently deficient and to build on current strengths.</string>
+  </void>
+  <void property="credits">
+   <int>1</int>
+  </void>
+  <void property="description">
+   <string>First-Year Seminar in Security and Risk Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>S</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>001</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction. Foreign Studies (3)</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>099</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This introductory course spans areas of security, risk, and analysis covering contexts in government agencies and business organizations.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Security and Risk Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd0"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>111</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduction to Security and Risk Analysis is a preliminary course with a broad focus, spanning the areas of security, risk and analysis. In addition to familiarizing the student with basic technical terminology, it will also touch upon social and legal issues, risk analysis and mitigation, crime intelligence and forensics, and information warfare and assurance. This course will motivate students to understand the requirements for security in any government agency or business organization through the use of case studies. Included in this segment are cases related to cyberterrorism, bioterrorism, and critical infrastructure protection. Some concepts to be covered in the area of information security are: confidentiality, integrity, availability, and non-repudiation. Various methods of safeguarding these security concerns will be discussed, such as: single- and multi-factor authentication, encryption, digital signatures, prevention of denial of service attacks, and so forth. This course also covers social and legal issues related to security, in particular identity theft and social engineering. Topics in this section include identity theft, spam, spyware, and adware. This course also covers the principles and the approaches to risk analysis. Here students study vulnerability analysis, crime and intelligence analysis, forensics, techniques for risk assessment and risk mitigation. The course will prepare students for more in-depth courses such as SRA 211, SRA 221 and SRA 311.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Introduction to Security and Risk Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>111</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>197</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction. Foreign Studies (3)</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>199</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides overview of nature, scope, and seriousness of threats to security as a result of terrorism and crime. Threat of Terrorism and Crime is a course designed to acquaint students with the security threats posed by both terrorist and criminal activity, and with strategies to combat these threats. Terrorism and security are defined as well as terrorism in its historical context. Varieties of terrorist groups, organizations and their actions are studied with targets of terrorism being a focus. Types of crime including street, employee, organized and white collar crime are studied. Information theft can occur in each of the types of crime. Security threats of each type are studied and mitigation techniques are evaluated. Methods of studying terrorism and crime cover data collection, analysis of the reliability of the data, and fusing the data so that information is obtained that leads to knowledge to combat terrorism and crime. Finally to put the course in perspective, students study critical shortfalls in our understanding of terrorism and crime including unreliable data, biased estimates and a lack of understanding of terrorist and criminal motives and objectives.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Threat of Terrorism and Crime</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>211</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides overview of nature, scope, and seriousness of threats to security as a result of terrorism and crime.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Threat of Terrorism and Crime</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>H</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>211</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides an understanding of the overview of information security including security architecture, access control, and internet secure applications. SRA 221 focuses on an overview of information security. Students will learn the principles of information security, security architectures and models, aspects and methods of information security such as physical security control, operations security, access control, hacks/attacks/defense, systems and programs security, cryptography, network and web security, worms and viruses, and other Internet secure applications. Students will also learn how to plan and manage security, security policies, business continuity plans, disaster recovery plans, and social and legal issues of information security. A major component of the course will be several hands-on exercises and a final team-based project. This course will incorporate collaborative and action-learning experiences wherever appropriate. Emphases will be placed on developing and practicing writing and speaking skills through application of the concepts, theories and technologies that define the course.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Overview of Information Security</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>221</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 111IST 110CMPSC 101</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides an overview of decision theoretical and analytical concepts and tools in the security risk analysis field. Decision Theory and Analysis is designed for students to build an understanding of how to improve the judgment and decision making of individuals, groups and organizations. Behavioral decision theories provide the theoretical core for the course. These theories draw on insights from a diverse set of disciplines, including cognitive and social psychology as well as economics, statistics and philosophy. Offered annually (and more if demand requires), this course will foster understanding of: (a) the cognitive, emotional, social and institutional factors that influence judgment and choice, (b) normative (economic) models of rational choice, and (c) how judgment and decision making can be predicted and/or improved through prescriptive aids and models. Applications of these theories and methods to real-life venues will be used to engage and focus the students. For example, insights on how such concepts apply to supply chain security, bioterrorism threats, legal decision making, large-scale risk assessments (e.g., assessing risks of transnational threat), and first-response/crisis decision making will be common. Where appropriate, real situations and cases are used to bring concepts and scenarios alive. Overall, the course emphasizes basic skills and concepts that enhance an individual’s ability to understand why individuals, groups and organizations behave the way they do, how they formulate the issues and problems they confront, as well as to choose rationally among competing courses of action.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Decision Theory and Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>231</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised student activities on research projects identified on an individual or small-group basis.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Research Project</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>294</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Creative projects, including research and design, that are supervised on an individual basis and that fall outside the scope of formal courses.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Independent Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>296</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>297</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction. Foreign Studies (3)</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>299</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Assessment and mitigation of security vulnerabilities for people, organizations, industry sectors, and the nation. Risk Analysis in a Security Context is focused on developing analytical skills aimed at producing credible and meaningful answers to critical questions of risk management. Risk is considered at all levels within this course, including those created by intelligent adversaries, including cybercriminals and terrorists, although risks may also include natural disasters, system failures, accidents, etc. Students successfully completing this course are capable of applying a diverse set of analytic techniques to answer questions in contexts such as information security, counterterrorism and intelligence, or any other particular field where protection is an issue. Topics in this course include critical thinking, systems analysis, risk assessment and associated analysis methods, risk communication, and risk control.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Risk Analysis in a Security Context</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>311</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Assessment and mitigation of security vulnerabilities for people, organizations, industry sectors, and the nation. Risk Analysis in a Security Context is focused on developing analytical skills aimed at producing credible and meaningful answers to critical questions of risk management. Risk is considered at all levels within this course, including those created by intelligent adversaries, including cybercriminals and terrorists, although risks may also include natural disasters, system failures, accidents, etc. Students successfully completing this course are capable of applying a diverse set of analytic techniques to answer questions in contexts such as information security, counterterrorism and intelligence, or any other particular field where protection is an issue. Topics in this course include critical thinking, systems analysis, risk assessment and associated analysis methods, risk communication, and risk control.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Risk Analysis in a Security Context</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>311</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The Role of information and intelligence introduces students to the architecture and policies of the U.S. Intelligence Community (IC) and examines how U.S. intelligence policies and practices relate to overall U.S. foreign policy objectives and are influenced by today&apos;s global enviroment and emerging technologies. The course examines the users and processes of IC, participants of Competitive Intelligence, and comparative intelligence communities. This course introduces intelligence structures and policies and explores the role and use of information and intelligence in the 21st Century, in support of individual citizens, national defense and corporate America. It will introduce the major actors in the U.S. intelligence community and frame U.S. intelligence policies in terms of overall U.S. foreign policy objectives in the current globalized international arena. The course discusses the history and evolution of U.S. intelligence policies, capabilities and information requirements as well as the legal and constitutional foundations of those policies. The course will examine and attempt to apply methods and techniques of the information user and intelligence practitioner. The course will also provide experience in applying principles and techniques learned in the context of a team-based intelligence-analysis simulation exercise.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>The Role of Information and Intelligence</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>321</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 111SRA 211SRA 231</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Theoretical foundations and practice of intermediate statistics. SRA 365 Statistics for Security and Risk Analysis (3) SRA 365 is an intermediate-level statistics course emphasizing how to summarize data using descriptive statistics, how to make data-driven decisions using inferential statistics, and how to critically evaluate data presented in the media, all within the context of security, risk, and analysis. This is both a theory and application course. Students will learn about statistical theories, such as regression, and chi-square analyses, and apply their knowledge of these theories by analyzing and interpreting data using a statistical software package.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Statistics for Security and Risk Analysis</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>365</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>397</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Explore the economi incentives for security attacks and appropriate security defenses; apply methods from the economic and behavioral sciences to current privacy and security challenges.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Security Economics and Privacy Behaviors</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>E</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>397</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Courses offered in foreign countries by individual or group instruction. Foreign Studies (3)</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Foreign Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object idref="genEd1"/>
+    </void>
+   </object>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>399</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The Role of information and intelligence introduces students to the architecture and policies of the U.S. Intelligence Community (IC) and examines how U.S. intelligence policies and practices relate to overall U.S. foreign policy objectives and are influenced by today&apos;s global enviroment and emerging technologies. The course examines the users and processes of IC, participants of Competitive Intelligence, and comparative intelligence communities. This course examines intelligence structures and policies and explores the role and use of information and intelligence in the 21st Century, in support of individual citizens, national defense and corporate America. It will introduce the major actors in the U.S. intelligence community and frame U.S. intelligence policies in terms of overall U.S. foreign policy objectives in the current globalized international arena. The course discusses the history and evolution of U.S. intelligence policies, capabilities and information requirements as well as the legal and constitutional foundations of those policies. The course will examine and apply methods and techniques of the information user and intelligence practitioner. The course will also provide experience in applying principles and techniques learned in the context of a team-based intelligence-analysis simulation exercise.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>The Intelligence Environment</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>421</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 111SRA 211SRA 231</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Deception tactics, technologies and procedures and approaches to counterdeception analysis. This course introduces deception and counterdeception and their role in support of security risk analyses in competitive environments. The course covers fundamental theories of deception, human cognition and its vulnerabilities to deception, and the vulnerabilities of technical collection systems and sensors to deception. The course discusses deceptive practices in use by attackers and defenders, including both non-technical and technical means. The course also provides experience applying technical and non-technical counterdeception techniques to security risk analysis problems.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Deception and Counterdeception</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>433</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 211SRA 221SRA 231SRA 311</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>The Security and Risk Analysis Capstone course is designed to provide IST students enrolled in the SRA major to experience a semester-long security and risk problem-solving experience, providing realistic security dilemmas requiring a solution process that is well suited for teamwork and collaboration. This course is designed to provide IST seniors enrolled in the SRA major to experience a semester-long security and risk analysis scenario or problem-solving exercise by providing realistic analytic dilemmas requiring solutions that incorporate facets of the three SRA Options. The problems selected for the Capstone should lend themselves to team collaboration and group solutions.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Security and Risk Analysis Capstone Course</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>W</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>440</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 221 andSRA 311;ENGL 202C orENGL 202D seventh-semester standing (this course is intended for seniors) and the five common course requirements plus at least three of the required courses in an option</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Introduce visual analytic techniques for security informatics and intelligence. It covers analytical techniques on visualizing threats, risk, and vulnerability. This course surveys techniques for visualizing and analyzing security information and for communicating and using information about threats, risk and vulnerability to decision-makers. It will motivate students by the needs for better intelligence in a broad range of homeland security applications. Through case studies and problem-based learning, students will develop understanding of important concepts and issues, such as data source and data quality, associations and integration of incidence, hazards, and risk factors, and the difficulties of analyzing and communicating knowledge. Various visual analytical methods for homeland security intelligence will be discussed, such as : (1) mapping and visualizing patterns of crime and incidence, (2) identifying targets and agents of terrorist attacks, (3) spatial analysis of social, economic and environmental risk indicators, and (4) prediction of threat and risk. It also pays special attention to the interpretation of analytical results for actions. Geographical information systems and associated spatial analytical tools will be used to exemplify the kinds of information environment available to intelligence community. The course will prepare students to become immediate workforce for security-related industries and government agencies.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Visual Analytics for Security Intelligence</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>468</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: IST 110SRA 111</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Provides in-depth study of how security informatics is influenced by the risk and post-modern culture. The post-modern world provides a changing climate and context for defining and understanding threats, intelligence, decisions, and risk. Likewise, post-modern cultures consist of beliefs that are heavily influenced by psychology, social connectivity, collective behavior, religion, ethnicity, and political systems. This system of systems is heavily dependent upon and influenced by information, information technology, and the web (social informatics). When examining human behavior as it impacts risk, these various social-technical factors must be considered in planning for terrorism, intelligence analysis, and emergency events. As the post-modern world becomes increasingly complicated, the ability to discern, identify, and address threats in terms of risk becomes exceedingly more difficult. Provision of learning underlying psychological, social, political, religious, and technical components of how risk accelerates through various stages will be critical for protection of national and international interests within the security sphere. Security informatics will be at the heart of both recognizing emerging situations and employing tools/agents/measures to assuage emergency, terrorist, or even national disaster events. This course provides the student with a broad perspective to critically examine both theories and practice of security informatics as related to the cultures in which threats emerge asymmetrically. Students will be placed on the role of systems analysts to problem solve and analyze information from a broad bandwidth of information specifically as informed by culture, post-modern thought, psychological intent, and situation awareness. The course will be grounded by participation in case studies and/or analyzing exercises of risk. Students will be required to do comprehensive reading assignments, engage in team cognition-social interaction, and become familiar with social informatics concepts and tools as related to risk, terrorism, and information warfare. As the post-modern world becomes increasingly complicated, the ability to discern, identify, and address threats in terms of risk becomes exceedingly more difficult. Provision of understanding some of the underlying psychological, social, political, religious, and technical components of how risk accelerates through various stages will be critical for protection of national and international interests within the security sphere. As extreme events become more prevalent in society, security informatics will be at the heart of both recognizing emerging situations and employing tools/agents to assuage emergency, terrorist, or even national disaster events.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Informatics, Risk, and the Post-Modern World</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>471</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Exploration of technological, operational, organizational and regulatory issues related to maintenance of individual privacy, confidentiality of organizations, and information protection. This course is designed to introduce students to the major organizational, technical, operational and regulatory issues in information privacy and security, and to give them experience in performing a privacy analysis, designing privacy-aware applications and developing privacy policy in organizations. Topics covered include: conceptualizations and theories of privacy and security, privacy laws and compliance, building a privacy organizational infrastructure, integrating privacy in the software development process, performing a privacy analysis, privacy issues in outsourcing and cross-border data transfers, integrating privacy into customer relationship management and vendor management, information systems audit and intentional standards on privacy and security. This course will mix technical details, applied value and organizational insights of assuring privacy and security through the use of case studies, real-life problems, hands-on exercises and team projects.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Integration of Privacy and Security</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>472</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 211 or SRA 221 or equivalent</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>This course studies information and communication technologies as part of emergency and disaster response, e.g. information management, coordination and communication.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Crisis Informatics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>480</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: 5th semester standing (or later) or approval of program</string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Supervised student activities on research projects identified on an individual or small-group basis.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Research Project</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>494</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Creative projects, including research and design, that are supervised on an individual basis and that fall outside the scope of formal courses.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Independent Studies</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>496</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Formal courses given infrequently to explore, in depth, a comparatively narrow subject that may be topical or of special interest.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Special Topics</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string> </string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>497</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Intermediate-level statistics course emphasizing understanding hypothesis testing and experimental design, a broad array of statistical techniques applied to data analysis, and computer tools to support testing and analysis; specifically applied to information sciences and technology applications.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Statistical Analysis for Information Sciences</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>A</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>497</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string></string>
+  </void>
+ </object>
+ <object class="Model.Course">
+  <void property="comments">
+   <string>Cover methods, technology, motivation, law and policy relating to cybercrime, cyber-espionage, cyber-terrorism, and cyber-warefare.</string>
+  </void>
+  <void property="credits">
+   <int>3</int>
+  </void>
+  <void property="description">
+   <string>Cybercrime and Cyber-warfare</string>
+  </void>
+  <void property="genEds">
+   <object class="java.util.ArrayList"/>
+  </void>
+  <void property="name">
+   <object class="Model.CourseName">
+    <void property="complement">
+     <string>B</string>
+    </void>
+    <void property="major">
+     <string>SRA</string>
+    </void>
+    <void property="number">
+     <string>497</string>
+    </void>
+   </object>
+  </void>
+  <void property="preReqs">
+   <string>Prerequisite: SRA 111 or IST 815</string>
+  </void>
+ </object>
+</java>
